@@ -1,8 +1,5 @@
 # Tether
 
-[![GitHub
-version](https://badge.fury.io/gh/HubSpot%2Ftether.svg)](http://badge.fury.io/gh/HubSpot%2Ftether)
-
 ## :rotating_light: Project status :rotating_light:
 
 We at HubSpot have been thrilled by Tether's success! However, the demands of maintaining such a complex project have outstripped our willingness and ability to do so effectively, as a quick glance at the issue tracker will tell you.
