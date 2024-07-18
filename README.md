@@ -108,6 +108,3 @@ For more details jump straight in to the detailed [Usage](http://github.hubspot.
 ## Contributing
 
 We encourage contributions of all kinds. If you would like to contribute in some way, please review our [guidelines for contributing](CONTRIBUTING.md).
-
-## License
-Copyright &copy; 2014-2017 HubSpot - [MIT License](LICENSE)
